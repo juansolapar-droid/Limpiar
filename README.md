@@ -12,12 +12,12 @@ apt-get install dialog play-audio file -y
 Once installed, you can continue to the next point.
 
 ```
-git clone https://github.com/Z3R07-RED/Cleaner-007.git
+git clone https://github.com/juansolapar-droid/Limpiar
 ```
 
 USAGE:
 ======
-* `cd Cleaner-007/`
+* `cd Limpiar/`
 * `chmod +x cleaner-007.sh`
 * `./cleaner-007.sh`
 
